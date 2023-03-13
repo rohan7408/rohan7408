@@ -5,6 +5,8 @@ I'm Rohan, a student from Nepal who is interested in coding. I am currently lear
 > HTML5
 > CSS
 > JavaScript
+> React
+> Tailwind
 
 📫 Contact Me
 > Email: contactrohan2005@gmail.com
